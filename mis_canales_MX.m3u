@@ -1,0 +1,197 @@
+#EXTM3U
+
+# ===== CANALES DE MÉXICO =====
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (1080p)
+http://38.44.109.41:8003/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",Imagen TV (1080p)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5 (Mexico) (1080p)
+http://45.181.87.106/CANAL5HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="General",Canal 5 (Mexico) XET-TDT (1080p)
+http://45.5.118.152:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios CDMX (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios Monterrey (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7 (1080p)
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-id="MariaVision.mx@SD" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",Maria Vision (1080p)
+http://200.122.223.13:55000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",Milenio Television (720p)
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFormula (720p)
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" group-title="Undefined",Canal Once (1080p)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",Nueve TV (720p)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Undefined",Canal 22 Nacional (720p) [Geo-blocked]
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+# ===== CANALES DE DEPORTES =====
+#EXTINF:-1 tvg-id="TUDN.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN (United States) (1080p)
+http://45.190.13.8/TUDNHD/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN (Mexico) (1080p)
+https://streaming.alwaysdata.net/tudn.php
+
+#EXTINF:-1 tvg-id="TUDN.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN (United States) (1080p)
+http://45.190.13.8/TUDNHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Sports",ESPN 2 (Netherlands) (360p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us@SD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2 (United States) (720p)
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Sports",ESPN 2 Latin America Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 Latin America Colombia (1080p)
+http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports",ESPN 3 (Brazil) (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Sports",ESPN 3 (Netherlands)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports",ESPN 3 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Sports",ESPN 3 Latin America Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports",ESPN 4 (Brazil) (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Sports",ESPN 4 (Netherlands)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports",ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 5 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 6 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 7 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN8: The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN (Brazil) (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Sports",ESPN (Netherlands) (360p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN (United States) (720p)
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Sports",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us@Argentine" tvg-logo="https://i.imgur.com/8P8N2Ov.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" group-title="Sports",ESPN Extra Latin America (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Sports",ESPN Latin America Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN Latin America Colombia (1080p)
+http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium (Argentina) HD (1080p)
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Sports",ESPN Premium (Chile)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Deportes (720p)
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports (1080p)
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+
+#EXTINF:-1 tvg-id="MLB.us@SD" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB (720p)
+https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
+#EXTINF:-1 tvg-id="MLBStrikeZone.us@SD" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="Sports",MLB Strike Zone (720p)
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLChannel.us@SD" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel (720p)
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network (720p)
+http://198.58.104.90:8989/nfl/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Deportes (720p)
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max (1080p)
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
+
+#EXTINF:-1 tvg-id="BarcaTV.es@SD" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="Sports",Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid TV (726p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+
+# ===== CANALES DE PELÍCULAS =====
+#EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Movies",CineLatino (720p)
+http://206.135.11.174:8010/play/a0lq/index.m3u8
+
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies",De Pelicula Latin America (1080p)
+http://38.19.41.46:8081/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx@SD" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies",De Pelicula Plus (1080p)
+http://200.115.120.1:8000/play/ca030/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPremier2.mx@SD" tvg-logo="https://i.imgur.com/GBlvQBI.png" group-title="Movies",Golden Premier 2 (1080p)
+http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier.mx@SD" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Movies",Golden Premier (1080p)
+http://200.229.147.210:9999/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Movies",Popcorn Central (1080p)
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Movies",Cinemax Latin America (720p)
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@HD" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Movies",Cinemax Latin America HD (1080p)
+http://38.65.175.84:8000/play/a093/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America HD (1080p)
+http://45.171.64.30:6060/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies Latin America (1080p)
+http://38.252.238.18:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel Latin America (1080p)
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+
+# ===== 24/7 =====
+
+
