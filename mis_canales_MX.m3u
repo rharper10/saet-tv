@@ -193,12 +193,12 @@ http://38.252.238.18:8000/play/a01e/index.m3u8
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 
 # ===== 24/7 =====
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/poster.jpg" group-title="Peliculas", Pelicula Jellyfin
-http://<192.168.100.8>:8096/Items/f4164c33020092f0ccfedf401f795f6d/Download?ApiKey=111bf1dc0e1048db92de911ccebbbd4b
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/poster.jpg" group-title="Peliculas", Pelicula 1
+http://192.168.100.8:8096/Items/f4164c33020092f0ccfedf401f795f6d/Download?ApiKey=111bf1dc0e1048db92de911ccebbbd4b
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/poster.jpg" group-title="Peliculas", Pelicula Jellyfin 2
-http://<192.168.100.8>:8096/Items/2e33ec60d3b823b8b2b807ef89549f16/Download?ApiKey=111bf1dc0e1048db92de911ccebbbd4b
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/poster.jpg" group-title="Peliculas", Pelicula 2
+http://192.168.100.8:8096/Items/2e33ec60d3b823b8b2b807ef89549f16/Download?ApiKey=111bf1dc0e1048db92de911ccebbbd4b
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/poster.jpg" group-title="Peliculas", Pelicula Jellyfin
-http://<192.168.100.8>:8096/Items/8065929686c17bb1cd1346c7c0b9a2f4/Download?ApiKey=111bf1dc0e1048db92de911ccebbbd4b
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/poster.jpg" group-title="Peliculas", Pelicula 3
+http://192.168.100.8:8096/Items/8065929686c17bb1cd1346c7c0b9a2f4/Download?ApiKey=111bf1dc0e1048db92de911ccebbbd4b
 
